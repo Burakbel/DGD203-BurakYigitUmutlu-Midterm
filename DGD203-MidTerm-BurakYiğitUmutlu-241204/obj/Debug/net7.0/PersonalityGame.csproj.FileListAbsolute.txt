@@ -1,0 +1,28 @@
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.AssemblyInfoInputs.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.AssemblyInfo.cs
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.genruntimeconfig.cache
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.exe
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.deps.json
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.runtimeconfig.json
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.pdb
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityAdventureGame.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\refint\PersonalityAdventureGame.dll
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityAdventureGame.pdb
+C:\Users\Ömer Ali\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\ref\PersonalityAdventureGame.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.exe
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.deps.json
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.runtimeconfig.json
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\bin\Debug\net7.0\PersonalityAdventureGame.pdb
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.AssemblyInfoInputs.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.AssemblyInfo.cs
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityAdventureGame.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\refint\PersonalityAdventureGame.dll
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityAdventureGame.pdb
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\PersonalityGame.genruntimeconfig.cache
+C:\Users\Burak\Desktop\DGD203-MidTerm-BurakYiğitUmutlu-241204\obj\Debug\net7.0\ref\PersonalityAdventureGame.dll
